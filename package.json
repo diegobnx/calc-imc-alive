@@ -29,6 +29,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "http://alivegastronomia.com.br/calc-imc",
   "browserslist": {
     "production": [
       ">0.2%",
